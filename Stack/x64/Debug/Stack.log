@@ -1,0 +1,8 @@
+﻿  Stack.cpp
+C:\Учеба\САОД\Stack\Calculator_postfix.h(35,14): warning C4101: symb: неиспользованная локальная переменная
+C:\Учеба\САОД\Stack\Calculator_postfix.h(98,34): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=ll
+          ]
+  Stack.vcxproj -> C:\Учеба\САОД\Stack\x64\Debug\Stack.exe

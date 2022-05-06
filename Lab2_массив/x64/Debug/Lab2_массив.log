@@ -1,0 +1,27 @@
+﻿  Lab2_массив.cpp
+C:\Учеба\САОД\Lab2_массив\Array.h(37,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Учеба\САОД\Lab2_массив\Lab2_массив.cpp(28): message : выполняется компиляция ссылки на экземпляр шаблон функции "void fill_random<float>(std::vector<float,std::allocator<float>> &,int,int)"
+C:\Учеба\САОД\Lab2_массив\Array.h(40,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Учеба\САОД\Lab2_массив\Array.h(44,22): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Учеба\САОД\Lab2_массив\Array.h(48,22): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Учеба\САОД\Lab2_массив\Array.h(93,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Учеба\САОД\Lab2_массив\Lab2_массив.cpp(57): message : выполняется компиляция ссылки на экземпляр шаблон функции "int find_left<float>(std::vector<float,std::allocator<float>> &,T)"
+          with
+          [
+              T=float
+          ]
+C:\Учеба\САОД\Lab2_массив\Array.h(114,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Учеба\САОД\Lab2_массив\Lab2_массив.cpp(58): message : выполняется компиляция ссылки на экземпляр шаблон функции "int find_right<float>(std::vector<float,std::allocator<float>> &,T)"
+          with
+          [
+              T=float
+          ]
+  Lab2_массив.vcxproj -> C:\Учеба\САОД\Lab2_массив\x64\Debug\Lab2_массив.exe
